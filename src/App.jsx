@@ -48,14 +48,14 @@ function App() {
                                     disabled={inputDisabled}
                                 />
                             </td>
-                            {/* <td>
+                            <td>
                                 <input
                                     type="text"
                                     value={data.attribute3}
                                     readOnly
                                     disabled={inputDisabled}
                                 />
-                            </td> */}
+                            </td>
                         </tr>
                     ))}
                 </tbody>
